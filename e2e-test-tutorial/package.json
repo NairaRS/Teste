@@ -1,0 +1,16 @@
+{
+  "name": "Doe's-e2e-test",
+  "version": "1.0.0",
+  "description": "An end to end test",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "jest"
+  },
+  "keywords": [],
+  "author": "John Doe",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "github": "^14.0.0"
+  }
+}
